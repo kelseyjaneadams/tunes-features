@@ -1,0 +1,17 @@
+.track-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    /* Green */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.recording {
+    background-color: #f44336;
+    /* Red */
+    transform: scale(1.05);
+}
